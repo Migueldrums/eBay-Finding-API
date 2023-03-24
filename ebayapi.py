@@ -1,0 +1,1 @@
+ebayapi='YOUR_APP_ID'
